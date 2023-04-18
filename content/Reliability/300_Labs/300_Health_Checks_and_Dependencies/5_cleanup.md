@@ -26,7 +26,7 @@ If you are already familiar with how to delete an AWS CloudFormation stack, then
 
 After deletion of the **WebApp1-VPC** CloudFormation stack is complete then delete the CloudWatch Logs:
 
-1. Open the CloudFormation console at [https://console.aws.amazon.com/cloudwatch/](https://console.aws.amazon.com/cloudwatch/).
+1. Open the CloudWatch console at [https://console.aws.amazon.com/cloudwatch/](https://console.aws.amazon.com/cloudwatch/).
 1. Click **Logs** in the left navigation.
 1. Click the radio button on the left of the **WebApp1-VPC-VPCFlowLogGroup-\<some unique ID\>**.
 1. Click the **Actions Button** then click **Delete Log Group**.
